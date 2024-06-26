@@ -15,15 +15,17 @@
     <main class="container mt-5">
         <section id="perfil" class="mb-5">
             <h2>Perfil</h2>
-            <div class="d-flex align-items-center">
-                <img src="https://via.placeholder.com/150" alt="Avatar" class="rounded-circle mr-3">
-                <div>
-                    <h3>Nome</h3>
-                    <p>Descrição do perfil</p>
+            <div class="row align-items-center">
+                <div class="col-12 col-md-4 text-center">
+                    <img id="profile-img" src="https://via.placeholder.com/150" alt="Avatar" class="rounded-circle">
+                </div>
+                <div class="col-12 col-md-8">
+                    <h3 id="profile-name">Nome</h3>
+                    <p id="profile-bio">Descrição do perfil</p>
                     <p>
-                        <a href="#" class="mr-2"><i class="fab fa-facebook"></i></a>
-                        <a href="#" class="mr-2"><i class="fab fa-twitter"></i></a>
-                        <a href="#"><i class="fab fa-instagram"></i></a>
+                        <a id="profile-github" href="#" class="mr-2"><i class="fab fa-github"></i></a>
+                        <a id="profile-twitter" href="#" class="mr-2"><i class="fab fa-twitter"></i></a>
+                        <a id="profile-blog" href="#"><i class="fas fa-link"></i></a>
                     </p>
                 </div>
             </div>
@@ -55,7 +57,7 @@
 
         <section id="colegas-trabalho">
             <h2>Colegas de Trabalho</h2>
-            <div class="d-flex justify-content-between" id="colleagues-container">
+            <div class="row" id="colleagues-container">
                 <!-- Colegas -->
             </div>
         </section>
