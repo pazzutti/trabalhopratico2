@@ -1,0 +1,64 @@
+{
+    "colleagues": [
+        {
+            "id": 1,
+            "name": "Eliseu Chaves",
+            "photoUrl": "https://avatars.githubusercontent.com/u/164196084?v=4",
+            "githubProfileUrl": "https://api.github.com/users/eliseu324"
+        },
+        {
+            "id": 2,
+            "name": "Fernando Dantas",
+            "photoUrl": "https://avatars.githubusercontent.com/u/145078231?v=4",
+            "githubProfileUrl": "https://api.github.com/users/Fernandodgleite"
+        },
+        {
+            "id": 3,
+            "name": "Joaquim Guilherme",
+            "photoUrl": "https://avatars.githubusercontent.com/u/160603058?v=4",
+            "githubProfileUrl": "https://api.github.com/users/JoaquimGCVS"
+        }
+    ],
+    "carouselContents": [
+        {
+            "id": 1,
+            "title": "Compreendendo a Inteligência Artificial: O Básico",
+            "type": "Artigo",
+            "image": "https://ae.digital/wp-content/uploads/2018/10/artificial-intelligence-ai-brain-machine-learning-ss-1920_d7k9rw.webp",
+            "description": "Uma introdução aos fundamentos da inteligência artificial, incluindo sua história, conceitos-chave e tendências futuras.",
+            "url": "https://blog.neoway.com.br/inteligencia-artificial/#:~:text=A%20Intelig%C3%AAncia%20Artificial%20busca%20fazer,de%20voz%20e%20deep%20learning."
+        },
+        {
+            "id": 2,
+            "title": "Como a Computação Quântica Vai Mudar o Mundo",
+            "type": "Vídeo",
+            "image": "https://web-assets.esetstatic.com/wls/2023/06/Quantum.computer.jpg",
+            "description": "Um vídeo abrangente que explica os princípios da computação quântica e seu impacto potencial em várias indústrias.",
+            "url": "https://www.honeywell.com/br/pt/news/2020/07/how-quantum-will-transform-the-future-of-5-industries#:~:text=Para%20investir%2C%20os%20computadores%20qu%C3%A2nticos,e%20a%20detetar%20fraudes%20rapidamente."
+        },
+        {
+            "id": 3,
+            "title": "A Internet das Coisas (IoT): Uma Visão Geral",
+            "type": "Infográfico",
+            "image": "https://smartus.com.br/wp-content/uploads/2020/01/%E2%80%9CIoT-na%CC%83o-e%CC%81-uma-vantagem-e%CC%81-uma-necessidade%E2%80%9D.jpg",
+            "description": "Um infográfico que fornece uma visão geral da Internet das Coisas, suas aplicações e sua importância no mundo moderno.",
+            "url": "https://www.oracle.com/br/internet-of-things/what-is-iot/"
+        },
+        {
+            "id": 4,
+            "title": "O Crescimento da Cibersegurança: Protegendo Nosso Mundo Digital",
+            "type": "Artigo",
+            "image": "https://www.genetec.com/binaries/content/gallery/illustrationstock_cyberthreats-recolored_adobestock_422696329.jpg",
+            "description": "Um artigo que discute a crescente importância da cibersegurança, ameaças comuns e melhores práticas para proteger informações digitais.",
+            "url": "https://drytelecom.com.br/artigo/ciberseguranca-o-que-e-e-por-que-e-importante-para-a-vida-digital#:~:text=A%20ciberseguran%C3%A7a%20%C3%A9%20muito%20mais,pessoais%2C%20senhas%20e%20dados%20banc%C3%A1rios."
+        },
+        {
+            "id": 5,
+            "title": "Tecnologia Blockchain Explicada",
+            "type": "Vídeo",
+            "image": "https://wallpapers.com/images/hd/blockchain-stylized-lettering-civ5gldkyfuvxpxg.jpg",
+            "description": "Um vídeo que explica como a tecnologia blockchain funciona, suas aplicações além das criptomoedas e seu potencial para revolucionar vários setores.",
+            "url": "https://exame.com/future-of-money/como-funciona-a-tecnologia-blockchain/"
+        }
+    ]
+}

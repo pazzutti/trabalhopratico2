@@ -1,0 +1,100 @@
+/* styles.css */
+body {
+    background-color: #161616;
+    color: #ffffff;
+}
+
+header {
+    background-color: #4f3f68;
+    margin-bottom: 20px;
+}
+
+.navbar-custom {
+    background-color: #4f3f68;
+    color: white;
+}
+
+.navbar-custom a {
+    color: white;
+    text-align: center;
+}
+
+main {
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #4f3f68;
+}
+
+h1 {
+    color: #dc97e9;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: overline;
+}
+
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    flex-wrap: wrap;
+    display: flex;
+}
+
+h3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    flex-wrap: wrap;
+    display: flex;
+}
+
+h5 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+    color: black;
+}
+
+#perfil img {
+    width: 150px;
+    height: 150px;
+}
+
+#colegas-trabalho div {
+    text-align: center;
+}
+
+.content-item {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    color: #000;
+    margin: 15px;
+}
+
+.content-item img {
+    width: 100%;
+    height: auto;
+}
+
+.content-item h3 {
+    font-size: 1.2em;
+    margin: 10px;
+}
+
+.content-item p {
+    font-size: 0.9em;
+    margin: 10px;
+}
+
+.content-item a {
+    display: block;
+    padding: 10px;
+    background-color: #4f3f68;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 0 0 10px 10px;
+}
+
+.content-item a:hover {
+    background-color: #3a2d53;
+}
